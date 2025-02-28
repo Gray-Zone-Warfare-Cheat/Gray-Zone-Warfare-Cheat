@@ -1,0 +1,1 @@
+console.log("Gray Zone Warfare Cheat is active!");
